@@ -1,4 +1,9 @@
 
+
+'''
+AIM: Modify programs using parameters and class constants to create original artworks.
+Assessment: Complete an art project and “artist statement” justifying their programming choices
+'''
 #function definitions
 
 def writeChars(ch,num):
